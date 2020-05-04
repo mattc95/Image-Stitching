@@ -29,3 +29,7 @@ Sample run:
 ```
 python ./original.py ./img
 ```
+
+## Result
+![Image of Result]
+(https://github.com/mattc95/Image-Stitching/output/5_result.jpg)

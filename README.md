@@ -35,4 +35,4 @@ python ./original.py ./img
 It will ouput a matching image and a result image.
 ![Image of Result](https://raw.githubusercontent.com/mattc95/Image-Stitching/master/output/1_matching.jpg)
 
-![Image of Result](https://raw.githubusercontent.com/mattc95/Image-Stitching/master/output/1_result.jpg)
+![Image of Result](https://raw.githubusercontent.com/mattc95/Image-Stitching/master/output/2_result.jpg)

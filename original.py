@@ -95,7 +95,7 @@ def main(argv1, argv2='1'):
     #    for i in range(num_of_imgs):
     #        imgs[i] = imutils.resize(imgs[i], width=600, height=400)
 
-    if order != '1':
+    if (order != '1' and num_of_imgs > 2):
         print('Blending the images in reverse order')
         imgs = list(reversed(imgs))
 

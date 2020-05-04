@@ -33,6 +33,6 @@ python ./original.py ./img
 ## Result
 ![Image of Result](https://raw.githubusercontent.com/mattc95/Image-Stitching/master/output/5_result.jpg)
 It will ouput a matching image and a result image.
-![Image of Result](https://raw.githubusercontent.com/mattc95/Image-Stitching/master/output/1_matching.jpg)
+![Image of Result](https://raw.githubusercontent.com/mattc95/Image-Stitching/master/output/0_matching.jpg)
 
-![Image of Result](https://raw.githubusercontent.com/mattc95/Image-Stitching/master/output/2_result.jpg)
+![Image of Result](https://raw.githubusercontent.com/mattc95/Image-Stitching/master/output/0_result.jpg)

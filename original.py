@@ -1,4 +1,4 @@
-import cv2
+﻿import cv2
 import numpy as np
 import sys
 import os
@@ -10,7 +10,7 @@ class Image_Stitching:
         self.ratio = 0.65
         self.min_match = 5
         self.sift = cv2.xfeatures2d.SIFT_create()
-        self.smoothing_window_size = 200
+        self.smoothing_window_size = 100
 
     def registration(self, img1, img2, num):
         # 使用SIFT获得特征点
